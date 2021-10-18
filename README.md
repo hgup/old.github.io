@@ -1,3 +1,6 @@
-# hgup.github.io
+# Useful Assets
 
-[UAEN Vocabulary](https://hgup.github.io/college/UG/UAEN/vocabulary.html)
+## Undergraduate College Assets
+
+### UAEN
+  [UAEN Vocabulary](https://hgup.github.io/college/UG/UAEN/vocabulary.html)
