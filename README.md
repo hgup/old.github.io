@@ -1,2 +1,3 @@
 # hgup.github.io
-Useful static pages
+
+[UAEN Vocabulary](https://hgup.github.io/college/UG/UAEN/vocabulary.html)
